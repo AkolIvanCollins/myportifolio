@@ -32,7 +32,7 @@
             History
           </p>
         </li>
-        <li><p>&#127793;I'm Currently learning HTML, CSS and Java</p></li>
+        <li><p>&#127793;I'm Currently learning HTML, CSS and JavaSCript</p></li>
         <li>
           <p>
             &#128158;I'm looking to collobrate on making Artifical Intelligence
